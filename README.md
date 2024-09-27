@@ -1,5 +1,6 @@
 # MySQL Code Test
 Expected Result:
+
 ![expected_result](https://github.com/user-attachments/assets/2ce052a0-4028-4248-b1aa-bc5526106788)
 - Details can be found in `MindAtlas_MySQL_CodeTest.sql`
   
