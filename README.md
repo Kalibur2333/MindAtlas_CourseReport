@@ -9,22 +9,32 @@ Expected Result:
 This is a example project that displays course enrollment reports using **PHP**, **MySQL**, **React+Vite**, and **Tailwind CSS**. The project provides a frontend interface to search, filter, and paginate course enrollment data and a backend API to fetch data from the database.
 
 ## Features
-<img width="885" alt="a8496b25ad302e570605e7e81ac2908" src="https://github.com/user-attachments/assets/c655f3c6-4f1c-4877-a032-6e9d678bd56e">
+<img width="906" alt="f87c753dcae5d59679b46fcee443499" src="https://github.com/user-attachments/assets/e8dba732-9fc7-4d11-b46e-d4d9b948f2dd">
+
 
 - **Search**: Users can search for enrollments by first name, last name, course name, or completion status.
+<img width="906" alt="62692396ec1fb41338383dcf72ab8e3" src="https://github.com/user-attachments/assets/092b1296-76bd-43b7-a6f6-59b98b52196e">
+<img width="906" alt="c9e47f797cc31d0480fb6bd4fca56ff" src="https://github.com/user-attachments/assets/ed538392-c80d-489c-ae3b-6da9f47023f8">
 
-<img width="885" alt="a8210c875ccefedc6e8c7c7a9fe0837" src="https://github.com/user-attachments/assets/9839c2d4-b1ec-431a-bda2-cc8105a51310">
+
 
 - **Sort**: Users can sort enrollments by different columns (first name, last name, course name, and status).
 
-<img width="885" alt="dc81bb4071deb52f2b2753426ba8857" src="https://github.com/user-attachments/assets/ed85bf9c-4755-4465-9d78-5fa77fd6e9b8">
+<img width="906" alt="6de2650be7b47a19f5d2103f5e00ca4" src="https://github.com/user-attachments/assets/0aa1a009-9021-4784-b214-8bb6327bee87">
+<img width="906" alt="3385dcc7a47aea3b98d1ac02e406aa0" src="https://github.com/user-attachments/assets/1e31b8b2-8587-449d-ae62-27806ee43ce3">
+
+
 
 - **Pagination**: View data page by page with next, previous, and page number buttons.
+<img width="906" alt="e7d3451d835af095c6bae46bef0599b" src="https://github.com/user-attachments/assets/83cf3b20-67ea-4e21-b83b-19d88a0f496e">
+
 - **Responsive Design**: Uses Tailwind CSS for styling and is fully responsive for different screen sizes.
 - **Easy to Find Completion Details**
 
-<img width="885" alt="771f405b738e9fc4e8c8978fd216e81" src="https://github.com/user-attachments/assets/ac332cf1-70d8-4992-b950-b056bdfe8fd0">
-<img width="885" alt="3f1a80a206f925bb35113ef318eb117" src="https://github.com/user-attachments/assets/50cbd8e0-6a57-4882-9bc0-d5dce5a24ec3">
+![4b60276bdbd005a71fecef22837f9c2](https://github.com/user-attachments/assets/117a5775-333c-41f5-82c9-ade130cc636e)
+<img width="906" alt="ffcd473b4b14dad1bb8b60a62939292" src="https://github.com/user-attachments/assets/47b18e35-da45-49d8-8152-06b390f77d99">
+
+
 
 ## Technologies Used
 
